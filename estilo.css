@@ -1,0 +1,56 @@
+body{
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(158, 241, 241);
+}
+h1{
+    color: rgb(224, 31, 121);
+    font-weight: bold;
+    text-align: center; 
+}
+p{
+    text-align:justify ;
+    color: rgb(50, 24, 56);
+}
+img{
+    border-radius: 30px;
+
+}
+a{
+    color: rgb(76, 0, 255);
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+
+}
+a:hover{
+    color: rgb(160, 18, 173);
+}
+ul{
+    list-style: square;
+
+}
+table{
+    border-color: chocolate;
+    border: #86511b;
+    padding: 20px;
+    text-align: center;
+}
+form{
+    background-color: aliceblue;
+    padding: 50px;
+    display: inline-block;
+    margin: 50px;
+}
+button{
+background-color: rgb(255, 0, 0);
+cursor: pointer;
+}
+
+button{
+    background-color: chartreuse;
+}
+
+
+
+
